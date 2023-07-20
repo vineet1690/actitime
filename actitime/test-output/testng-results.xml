@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="11" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-18T12:44:53 IST" name="Suite" finished-at="2023-07-18T12:49:10 IST" duration-ms="257254">
+    <groups>
+    </groups>
+    <test started-at="2023-07-18T12:44:53 IST" name="Test" finished-at="2023-07-18T12:49:10 IST" duration-ms="257254">
+      <class name="HomeModule.ToVerifyTheHomePageTitle">
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:HomeModule.ToVerifyTheHomePageTitle@4dbb42b7]" started-at="2023-07-18T12:46:20 IST" name="bcConfig" finished-at="2023-07-18T12:46:59 IST" duration-ms="38754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:HomeModule.ToVerifyTheHomePageTitle@4dbb42b7]" started-at="2023-07-18T12:46:59 IST" name="bmConfig" finished-at="2023-07-18T12:47:01 IST" duration-ms="2108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="toVerifyTheHomePageTitle()[pri:0, instance:HomeModule.ToVerifyTheHomePageTitle@4dbb42b7]" started-at="2023-07-18T12:47:01 IST" name="toVerifyTheHomePageTitle" finished-at="2023-07-18T12:47:17 IST" duration-ms="15242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyTheHomePageTitle -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:HomeModule.ToVerifyTheHomePageTitle@4dbb42b7]" started-at="2023-07-18T12:47:17 IST" name="amConfig" finished-at="2023-07-18T12:47:21 IST" duration-ms="4331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:HomeModule.ToVerifyTheHomePageTitle@4dbb42b7]" started-at="2023-07-18T12:47:21 IST" name="acConfig" finished-at="2023-07-18T12:47:22 IST" duration-ms="840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+      </class> <!-- HomeModule.ToVerifyTheHomePageTitle -->
+      <class name="CustomerModule.CreateCutomerTest">
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:CustomerModule.CreateCutomerTest@66f57048]" started-at="2023-07-18T12:47:22 IST" name="bcConfig" finished-at="2023-07-18T12:48:30 IST" duration-ms="68024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:CustomerModule.CreateCutomerTest@66f57048]" started-at="2023-07-18T12:48:30 IST" name="bmConfig" finished-at="2023-07-18T12:48:31 IST" duration-ms="1476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="createCustomer()[pri:0, instance:CustomerModule.CreateCutomerTest@66f57048]" started-at="2023-07-18T12:48:31 IST" name="createCustomer" finished-at="2023-07-18T12:48:31 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:CustomerModule.CreateCutomerTest@66f57048]" started-at="2023-07-18T12:48:31 IST" name="amConfig" finished-at="2023-07-18T12:49:09 IST" duration-ms="37397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:CustomerModule.CreateCutomerTest@66f57048]" started-at="2023-07-18T12:49:09 IST" name="acConfig" finished-at="2023-07-18T12:49:10 IST" duration-ms="1492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+      </class> <!-- CustomerModule.CreateCutomerTest -->
+      <class name="ProductModule.CreateProductTest">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:ProductModule.CreateProductTest@316bcf94]" started-at="2023-07-18T12:44:53 IST" name="bsConfig" finished-at="2023-07-18T12:44:53 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="btConfig()[pri:0, instance:ProductModule.CreateProductTest@316bcf94]" started-at="2023-07-18T12:44:53 IST" name="btConfig" finished-at="2023-07-18T12:44:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:ProductModule.CreateProductTest@316bcf94]" started-at="2023-07-18T12:44:53 IST" name="bcConfig" finished-at="2023-07-18T12:45:40 IST" duration-ms="47098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:ProductModule.CreateProductTest@316bcf94]" started-at="2023-07-18T12:45:40 IST" name="bmConfig" finished-at="2023-07-18T12:45:42 IST" duration-ms="1571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="createProduct()[pri:0, instance:ProductModule.CreateProductTest@316bcf94]" started-at="2023-07-18T12:45:42 IST" name="createProduct" finished-at="2023-07-18T12:45:42 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProduct -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:ProductModule.CreateProductTest@316bcf94]" started-at="2023-07-18T12:45:42 IST" name="amConfig" finished-at="2023-07-18T12:46:19 IST" duration-ms="37269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:ProductModule.CreateProductTest@316bcf94]" started-at="2023-07-18T12:46:19 IST" name="acConfig" finished-at="2023-07-18T12:46:20 IST" duration-ms="942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="atConfig()[pri:0, instance:ProductModule.CreateProductTest@316bcf94]" started-at="2023-07-18T12:49:10 IST" name="atConfig" finished-at="2023-07-18T12:49:10 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atConfig -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:ProductModule.CreateProductTest@316bcf94]" started-at="2023-07-18T12:49:10 IST" name="asConfig" finished-at="2023-07-18T12:49:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- ProductModule.CreateProductTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
