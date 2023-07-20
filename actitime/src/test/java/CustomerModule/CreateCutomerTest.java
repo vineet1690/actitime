@@ -11,6 +11,7 @@ public class CreateCutomerTest extends BaseClass {
 	public void createCustomerTest() {
 		System.out.println("The Customer is created");
 		System.out.println("Changes by TE1");
+		System.out.println("Changes by TE2");
 	}
 	
 	
